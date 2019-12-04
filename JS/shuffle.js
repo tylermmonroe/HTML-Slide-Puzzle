@@ -1,5 +1,4 @@
 function shuffle(array) {
-
 	var currentIndex = array.length;
 	var temporaryValue, randomIndex;
 
